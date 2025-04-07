@@ -1,5 +1,5 @@
 ## Hi there 👋 I'm Kayode Idris Adelakun 
-🚀 **Aspiring Data Analyst | Cybersecurity Enthusiast | Data Entry Specialist
+🚀 **Aspiring Data Analyst | Cybersecurity Enthusiast | Data Entry Specialist**
 
 🔹 **About Me:**  
 - 🎓 BSc Early Childhood Education | Research & Data Enthusiast  
