@@ -4,7 +4,7 @@
 🔹 **About Me:**  
 - 🎓 BSc Early Childhood Education | Research & Data Enthusiast  
 - 💻 Passionate about IT, data visualization, Data Entry, and cybersecurity  
-- 📊 Skilled in Tableau, Excel, SPSS, SQL, python (pandas, Numpy, seaborns etc) and data analytics  
+- 📊 Skilled in Tableau, Excel, SPSS, SQL, Python (pandas, Numpy, seaborns etc) and data analytics  
 - 🛠️ **Interested in:** 📊 Data Analytics & Visualization | 📈 Business Intelligence
 🛠️ Data Cleaning & SQL Optimization | 🔍 Cybersecurity Analytics
 💡 Machine Learning Basics | 🌱 Healthcare & Environmental Data
