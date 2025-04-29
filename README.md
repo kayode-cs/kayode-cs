@@ -10,9 +10,12 @@
 💡 Machine Learning Basics | 🌱 Healthcare & Environmental Data
 
 🔹 **My Projects:**  
-1️⃣ [Chocolate Sales Dashboard](#) - Tableau visualization of chocolate sales data  
+1️⃣ [Chocolate Sales Dashboard](#) - Tableau visualization of chocolate sales data
+
 2️⃣ [NYC Early Childhood School Performance Dashboard (2020-2021](#) - Tableau Visualization of Early Childhood School Performance in NYC  
+
 3️⃣ [Open-University-Performance](#) -
+
 4️⃣ [OLIST ONLINE SALES OPERATIONS ANALYSIS](#) 
 
 🔹 **Let's Connect!**  
