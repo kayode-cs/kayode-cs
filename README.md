@@ -7,7 +7,7 @@
 - 📊 Skilled in Tableau, Excel, SPSS, SQL, Python (pandas, Numpy, seaborns etc) and data analytics  
 - 🛠️ **Interested in:** 📊 Data Analytics & Visualization | 📈 Business Intelligence
 🛠️ Data Cleaning & SQL Optimization | 🔍 Cybersecurity Analytics
-💡 Machine Learning Basics | 🌱 Healthcare & Environmental Data
+💡 Machine Learning Basics | 🌱 Education & Sales Data
 
 🔹 **My Projects:**  
 1️⃣ [Chocolate Sales Dashboard](#) - Tableau visualization of chocolate sales data
