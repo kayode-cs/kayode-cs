@@ -18,9 +18,12 @@
 
 4️⃣ [OLIST ONLINE SALES OPERATIONS ANALYSIS](#) 
 
+5️⃣ [DataAnalytics-Assessment](#) - SQL Queries for customer transactions, account activity, and value analysis using MySQL
+
 🔹 **Let's Connect!**  
 📧 Email: ikadelakun@gmail.com 
 🔗 [LinkedIn](https://www.linkedin.com/in/kayode-adelakun-4b68a2343/)  
+🔗 [portfolio](https://www.notion.so/kayodeadelakun/Kayode-Adelakun-Data-Analyst-1df49280611280f98b58ec2685868f5f)
 
 
 <!--
